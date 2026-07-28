@@ -17,7 +17,7 @@ i use following cloud service provider for storing video
   on this web app the food-partner will share a dedicated reel of their food and the user will see how the food looks like and the
   experince of both the food-partner and user will get amazing and enjoying the user is come for scrolling and end up to buy something]
 
-  THANKS FOR READING
+                                                                                    THANKS FOR READING
 
 
 
